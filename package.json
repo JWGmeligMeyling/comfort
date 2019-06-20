@@ -1,5 +1,5 @@
 {
-	"name": "comfort",
+	"name": "@jwgmeligmeyling/comfort",
 	"version": "1.0.0",
 	"main": "./comfort.js",
 	"dependencies": {
